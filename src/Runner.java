@@ -4,6 +4,9 @@ public class Runner {
         //versiyon 1
         System.out.println("degisiklik 1");  // bu suanda work space de
 
+        //versiyon 2
+        System.out.println("degisiklik yaptim");
+
 
 
     }
